@@ -3,10 +3,10 @@
     box-sizing:border-box;
 }
 body, html{
-    font-family:"Roboto",san-serif;
+    font-family:"Roboto",sans-serif;
     background:rgb(0, 217, 255);
 }
-main-panel {
+.main-panel {
     width:100%;
     max-width:700px;
     margin:20px auto;
@@ -32,10 +32,10 @@ h1 {
 input, select {
     width:100%;
     padding:10px;
-    height:40x;
-    border:1px solid block;
+    height:40px;
+    border:1px solid #ccc;
     border-radius:5px;
-    font: size 16px;
+    font-size: 16px;
     margin-top:5px;
 
 }
